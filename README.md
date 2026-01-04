@@ -43,6 +43,7 @@ Student Result Management System - Python/
 
 ---
 
+view Python code:
 ## Author
 
 **Dubbaka Meghana**
