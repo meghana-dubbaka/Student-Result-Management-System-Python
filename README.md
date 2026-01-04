@@ -43,7 +43,11 @@ Student Result Management System - Python/
 
 ---
 
-view Python code:
+view Python code:[python.py](https://github.com/user-attachments/files/24421928/python.py)
+
+
+---
+
 ## Author
 
 **Dubbaka Meghana**
